@@ -1,0 +1,155 @@
+15
+6849
+Conor McGregor
+25/0/6/19
+0
+1234
+Valentina Shevchenko
+23/0/3/8
+2
+5678
+Robert Whittaker
+22/1/6/9
+3
+9012
+Joanna Jędrzejczyk
+16/0/4/6
+0
+3456
+Jose Aldo
+31/0/8/17
+0
+7890
+Daniel Cormier
+27/0/3/10
+2
+2345
+Amanda Nunes
+21/0/5/14
+0
+6789
+Khabib Nurmagomedov
+29/0/0/8
+2
+1111
+Rose Namajunas
+11/0/5/5
+0
+2222
+Max Holloway
+23/0/6/10
+0
+3333
+Stipe Miocic
+20/0/4/15
+3
+4444
+Jessica Andrade
+22/0/9/8
+0
+5555
+Tony Ferguson
+25/0/6/12
+2
+6666
+Henry Cejudo
+16/0/3/9
+0
+7777
+Weili Zhang
+22/0/3/7
+0
+4
+4567
+Boby
+6
+1269
+Lenny
+2
+5273
+Ruby
+6
+1234
+Momo
+5
+6
+menora
+4567
+7000
+israel
+mgm
+1593
+15000
+las vegas
+staples center
+2468
+19060
+los angeles
+t-mobile arena
+7890
+20000
+las vegas
+barclays center
+3456
+19000
+new york
+madison square garden
+1234
+20789
+new york
+5
+6849
+9012
+5273
+-1
+4444
+7777
+4567
+-1
+3333
+5678
+4567
+-1
+6789
+7890
+4567
+-1
+7890
+1234
+1234
+-1
+2
+203
+1234
+3
+6849
+9012
+5273
+-1
+3333
+5678
+4567
+-1
+6789
+7890
+4567
+-1
+12
+5
+2024
+300
+202
+3456
+2
+6849
+9012
+5273
+-1
+6789
+7890
+4567
+-1
+4
+2
+2024
+1000
